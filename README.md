@@ -3,13 +3,13 @@ The programming assignment of ECE6100@Gatech.
 Well commented.
 Can solve LD/ADD/SUB/MUL/DIV/SD Instruction.
 
-##Test Enviroment
+## Test Enviroment
 Pycharm + Anacpnda+Py3.7
 
-##Requirement
+## Requirement
 pretteytable
 
-##Code Structure
+## Code Structure
 Instruction_queue.py
 LoadandStore.py
 register.py
