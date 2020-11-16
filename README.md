@@ -10,10 +10,10 @@ Pycharm + Anacpnda+Py3.7
 pretteytable
 
 ## Code Structure
-'''
+```
 Instruction_queue.py
 LoadandStore.py
 register.py
 reservation_station.py
 Tomasulomain.py
-'''
+```
