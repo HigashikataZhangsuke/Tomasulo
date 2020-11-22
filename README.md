@@ -4,7 +4,7 @@ Well commented.
 Can solve LD/ADD/SUB/MUL/DIV/SD Instruction.
 
 ## Test Enviroment
-Pycharm + Anacpnda+Py3.7
+Pycharm + Anaconda+Py3.7
 
 ## Requirement
 pretteytable
